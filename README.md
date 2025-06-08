@@ -9,6 +9,6 @@ This was my fourth project that I did after creating a report for my company whi
 
 #File Info
 
--**Format**: .pibx
--**Tool**: Power BI Desktop
--**Data**: CSV format
+- **Format**: .pibx
+- **Tool**: Power BI Desktop
+- **Data**: CSV format
